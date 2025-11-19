@@ -29,7 +29,7 @@ So I built **FleaMarket**: a lightweight, ethical secret hunter focused on **fre
 ✅ Resumes scans after interruption  
 ✅ Never exploits or stores keys — **ethics-first design**
 
-> 🔗 GitHub repo (coming soon — but you can build your own!): `github.com/yourname/fleamarket`
+> 🔗 GitHub repo (coming soon — but you can build your own!): `github.com/toxy4ny/fleamarket`
 
 ---
 
